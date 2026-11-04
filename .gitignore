@@ -21,13 +21,11 @@ yarn-debug.log*
 yarn-error.log*
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # IDE
 .idea
-.vscode
 *.swp
 *.swo
 *~
+config.bat
