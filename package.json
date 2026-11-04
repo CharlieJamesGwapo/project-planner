@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+    "dev": "node init && next dev",
+    "build": "node init && next build",
+    "start": "node init && next start"
   },
   "keywords": [],
   "author": "",
